@@ -28,7 +28,7 @@ Uploaded Image:
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live App on Vercel](https://v0-object-detection-q8sru6sav-lonerwarlocks-projects.vercel.app/)
+👉 [Visit the Live App on Vercel](https://object-detection-two-delta.vercel.app/)
 
 ## 🧾 License
 
